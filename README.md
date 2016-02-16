@@ -1,6 +1,7 @@
 #SoC Platforms and their Mainlininess / Support in Linux OSS ecosystem
 
 Platform | Good | Bad | Prices Start At
+--- | --- | --- | ---
 Allwinner A20 | nearly 100% mainlined, graphics are the holdout, but LIAM driver is available | It's older and slower than h3 | $27
 Allwinner H3  | Very fast!  Very Cheap! | no network, but can use USB dongle for network.  Can run hot.  | $10 - 512mb $15 1GB
 Allwinner A64 | 64 bit, cheap | Not terribly fast, just quick.  | $15 - 1gb $30 - 2gb
